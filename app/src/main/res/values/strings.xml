@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">W4-App Dicoding Story</string>
+
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="description">Description</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Insert Your Email</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Insert Yout Password</string>
+    <string name="login_button"> Login</string>
+    <string name="user_image">User Image</string>
+    <string name="reload">Reload</string>
+    <string name="home">Home</string>
+    <string name="apps_name">\"Share your story with Dicoding\"</string>
+    <string name="title_register">Complete your Data</string>
+    <string name="name_register">Name</string>
+    <string name="button_register">Register</string>
+    <string name="detailStory">Detail Story</string>
+    <string name="name_detail">Name</string>
+    <string name="date_detail">Date</string>
+    <string name="error">Error</string>
+    <string name="head_notif">YATTA!</string>
+    <string name="login_succes_notif">Login Succes, Welcome</string>
+    <string name="upload_succes_notif">Your story has been uploaded</string>
+    <string name="next_notif">Next</string>
+    <string name="register_succes_notif">Your registration is complete, one more step to share your story</string>
+    <string name="desc_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor ultricies rhoncus. Donec aliquam turpis sit amet lectus feugiat, ut ultricies turpis bibendum. Phasellus lobortis nulla nisl, at viverra lorem gravida nec. Morbi molestie nisl sit amet metus maximus interdum. Ut sed orci nec velit semper dignissim. Fusce sit amet elit ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec luctus ligula odio, eu egestas dui pellentesque at. Aliquam aliquet laoreet interdum. Phasellus vel arcu convallis, pretium lacus in, elementum velit. Nam pulvinar, nulla vitae auctor congue, tellus purus placerat quam, vitae iaculis orci elit a elit. Morbi maximus, sem id porta vulputate, turpis est hendrerit eros, eget facilisis urna sapien in nunc.</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="camera_button">Camera</string>
+    <string name="description_hint">Description</string>
+    <string name="submit_button">Submit</string>
+    <string name="show_password_text">Show Password</string>
+    <string name="appwidget_text">Story List</string>
+    <string name="empty_text">NO DATA</string>
+
+</resources>

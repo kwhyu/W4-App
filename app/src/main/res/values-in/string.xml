@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">W4-App Dicoding Story</string>
+
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_password">Kata sandi tidak valid</string>
+    <string name="description">Deskripsi</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Masukkan Email Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="password_hint">Masukkan Kata Sandi Anda</string>
+    <string name="login_button">Masuk</string>
+    <string name="user_image">Gambar Pengguna</string>
+    <string name="reload">Muat Ulang</string>
+    <string name="home">Beranda</string>
+    <string name="apps_name">"Bagikan cerita Anda dengan Dicoding"</string>
+    <string name="title_register">Lengkapi Data Anda</string>
+    <string name="name_register">Nama</string>
+    <string name="button_register">Daftar</string>
+    <string name="detailStory">Detail Cerita</string>
+    <string name="name_detail">Nama</string>
+    <string name="date_detail">Tanggal</string>
+    <string name="error">Terjadi Kesalahan</string>
+    <string name="head_notif">YATTA!</string>
+    <string name="login_succes_notif">Login Berhasil, Selamat datang</string>
+    <string name="upload_succes_notif">Cerita Anda telah diunggah</string>
+    <string name="next_notif">Selanjutnya</string>
+    <string name="register_succes_notif">Pendaftaran Anda selesai, langkah terakhir untuk berbagi cerita Anda</string>
+    <string name="desc_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur auctor ultricies rhoncus. Donec aliquam turpis sit amet lectus feugiat, ut ultricies turpis bibendum. Phasellus lobortis nulla nisl, at viverra lorem gravida nec. Morbi molestie nisl sit amet metus maximus interdum. Ut sed orci nec velit semper dignissim. Fusce sit amet elit ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec luctus ligula odio, eu egestas dui pellentesque at. Aliquam aliquet laoreet interdum. Phasellus vel arcu convallis, pretium lacus in, elementum velit. Nam pulvinar, nulla vitae auctor congue, tellus purus placerat quam, vitae iaculis orci elit a elit. Morbi maximus, sem id porta vulputate, turpis est hendrerit eros, eget facilisis urna sapien in nunc.</string>
+    <string name="language">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="gallery_button">Galeri</string>
+    <string name="camera_button">Kamera</string>
+    <string name="description_hint">Deskripsi</string>
+    <string name="submit_button">Kirim</string>
+    <string name="show_password_text">Lihat kata sandi</string>
+    <string name="appwidget_text">List Cerita</string>
+    <string name="empty_text">Tidak Ada Data</string>
+
+
+</resources>
